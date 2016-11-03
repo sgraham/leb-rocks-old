@@ -1,0 +1,26 @@
+[
+  {
+    "category": "spirit-wear",
+    "description": "Something or other",
+    "id": "",
+    "image": "/data/images/OvMZBs9.jpg",
+    "largeImage": "/data/images/OvMZBs9.jpg",
+    "name": "t-shirt",
+    "price": 20.0,
+    "title": "T-Shirt",
+    "variation-1": "S, M, L, XL, 2XL",
+    "variation-2": ""
+  },
+  {
+    "category": "spirit-wear",
+    "description": "Stuff",
+    "id": "",
+    "image": "/data/images/OvMZBs9.jpg",
+    "largeImage": "/data/images/OvMZBs9.jpg",
+    "name": "zip-hoodie",
+    "price": 41.0,
+    "title": "Zip Hoodie",
+    "variation-1": "S, M, L, XL",
+    "variation-2": "Black, Royal Blue, White"
+  }
+]

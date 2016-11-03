@@ -1,0 +1,6 @@
+#!/bin/bash
+
+polymer build && \
+cp app.yaml build/bundled && \
+./appcfg.py update build/bundled -A leb-rocks
+#./appcfg.py update . -A leb-rocks -v
